@@ -6,19 +6,21 @@ This project demonstrates **Java OOP concepts** such as **inheritance, polymorph
 
 ## 📂 Package Structure
 
+```text
 org
 └── studyeasy
-└── Main.java
-└── animal
-├── Animal.java
-├── fish
-│ └── Eel.java
-├── bird
-│ ├── Bird.java
-│ └── Eagle.java
-└── reptile
-├── Reptile.java
-└── Crocodile.java
+    ├── Main.java
+    └── animal
+        ├── Animal.java
+        ├── fish
+        │   └── Eel.java
+        ├── bird
+        │   ├── Bird.java
+        │   └── Eagle.java
+        └── reptile
+            ├── Reptile.java
+            └── Crocodile.java
+
 
 ---
 
