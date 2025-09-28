@@ -6,10 +6,9 @@ This project demonstrates **Java OOP concepts** such as **inheritance, polymorph
 
 ## 📂 Package Structure
 
-org.studyeasy
-│
-├── Main.java
-│
+org
+└── studyeasy
+└── Main.java
 └── animal
 ├── Animal.java
 ├── fish
