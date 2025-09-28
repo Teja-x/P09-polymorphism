@@ -6,6 +6,7 @@ This project demonstrates **Java OOP concepts** such as **inheritance, polymorph
 
 ## 📂 Package Structure
 
+```text
 org
 └── studyeasy
     ├── Main.java
@@ -19,6 +20,7 @@ org
         └── reptile
             ├── Reptile.java
             └── Crocodile.java
+```
 
 ---
 
